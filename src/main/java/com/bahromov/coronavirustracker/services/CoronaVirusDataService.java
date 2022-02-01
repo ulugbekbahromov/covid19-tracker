@@ -55,5 +55,3 @@ public class CoronaVirusDataService {
         this.allStats = newStats;
     }
 }
-
-// Iterable<CSVRecord> records = CSVFormat.Builder.create().setHeader().build().parse(csvBodyReader);
